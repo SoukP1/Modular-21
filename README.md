@@ -7,7 +7,7 @@ Successful compilation of the `KaseiCoin` token contract.
 Successful compilation of the `KaiseCoinCrowdsale` contract.  
 ![](https://github.com/SoukP1/Modular-21/blob/main/Tokenomics/Images/kaseiCoinCrowdsale2.PNG)
 Successful compilation of the `KaiseCoinCrowdsaleDeployer` contract.
-![](https://github.com/SoukP1/Modular-21/blob/main/Tokenomics/Images/kaseiCoinCrowdsaleDeployer3.PNG)
+![](https://github.com/SoukP1/Modular-21/blob/main/Tokenomics/Images/kaseiCoinCrowdsaleDeploye03.png)
 Screenshot of the Ganache blockchain transactions used to demonstarte this contract.
 ![](https://github.com/SoukP1/Modular-21/blob/main/Tokenomics/Images/transactions4.PNG)
 Screenshot of Metamask wallet showing the successful purchase and reciept of the new KaseiCoins purchased in the demonstration.
